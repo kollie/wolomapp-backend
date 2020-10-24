@@ -32,6 +32,12 @@ flask db migrate -m 'message'
 flask db upgrade
 ```
 
+Start the project
+
+```
+flask run
+```
+
 Test live project with the frontend native app
 
 
